@@ -35,7 +35,7 @@ from torch.profiler import profile, ProfilerActivity, record_function
 
 
 
-HF_TOKEN = "<>" # Place your huggingface token here
+HF_TOKEN = None # Place your huggingface token here
 
 
 

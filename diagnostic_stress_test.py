@@ -33,7 +33,7 @@ from matplotlib.patches import Rectangle
 
 
 
-HF_TOKEN = "<>"
+HF_TOKEN = None
 # -------------------------
 # Boilerplate & Utilities from your original script
 # -------------------------
